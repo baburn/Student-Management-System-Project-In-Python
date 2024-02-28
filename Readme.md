@@ -51,17 +51,14 @@ The Student Management System is a simple Python program designed for managing a
 
 After completing an operation, the program prompts the user if they want to run the program again. Enter `Y` or `y` to restart the program, or any other key to exit.
 
-## Acknowledgements
-
-This project is brought to you by [code-projects.org](#).
 
 ## Author
 
-Your Name
+Nazeer Babu Rupanagudi
 
 ## Compatibility
 
-Tested on Windows and Unix-based systems.
+Tested on Windows.
 
 ## License
 
